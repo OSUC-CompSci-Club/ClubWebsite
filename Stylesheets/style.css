@@ -1,0 +1,28 @@
+.navbar, .navbar-brand {
+      margin-bottom: 0;
+      border-radius: 0;
+      padding-top: 0px;
+    }
+
+.jumbotron {
+    background-image: url("../Images/backdrop-2.jpg");
+    background-size: cover;
+    min-height: 200px;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+     background-color: #222;
+     color: #fff;
+     /*position: absolute;
+     bottom: 0;
+     width: 100%;
+     */
+}
