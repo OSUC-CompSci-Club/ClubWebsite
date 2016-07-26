@@ -10,17 +10,30 @@
     min-height: 200px;
 }
 
-html,
-body {
+*{
     margin: 0;
     padding: 0;
+}
+
+html,
+body {
     height: 100%;
 }
+
+/* http://ryanfait.com/sticky-footer/ */
+.container {
+    min-height: 100%;
+    /*height: auto !important;*/
+    height: 100%;
+    margin: 0, auto, -155px;
+}
+
 
 /* Add a gray background color and some padding to the footer */
 footer {
      background-color: #222;
      color: #fff;
+     height: 155px;
      /*position: absolute;
      bottom: 0;
      width: 100%;
