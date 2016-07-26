@@ -1,3 +1,7 @@
+* {
+    font-family: "Consolas", monospace;
+}
+
 .navbar, .navbar-brand {
       margin-bottom: 0;
       border-radius: 0;
