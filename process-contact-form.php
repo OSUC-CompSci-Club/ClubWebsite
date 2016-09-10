@@ -26,7 +26,7 @@
 
         if ($contactName && $contactEmail){ // assuming name & email required TODO: Client Side Validation
           // The message
-          $message = "Name: ". $contactName. "\n". "Email: ". $contactEmail. "\n". "Message: ". $contactMessage . "\n" . "Newsletter Sign Up: " . $contactSignUp;
+          $message = "Name: ". $contactName. "\n". "Email: ". $contactEmail. "\n". "Newsletter Sign Up: ". $contactSignUp. "\n". "Message: ". $contactMessage ;
 
           // Send
           mail('duquetteadam@gmail.com', 'CS Club Contact', $message);
@@ -46,10 +46,10 @@
                       </div>
                       <div class="collapse navbar-collapse" id="myNavbar">
                           <ul class="nav navbar-nav">
-                              <li><a href="board">Board</a></li>
-                              <li><a href="career">Career</a></li>
-                              <li><a href="events">Events</a></li>
-                              <li><a href="contact-us">Contact Us</a></li>
+                              <li><a href="board.html">Board</a></li>
+                              <li><a href="career.html">Career</a></li>
+                              <li><a href="events.html">Events</a></li>
+                              <li><a href="contact-us.html">Contact Us</a></li>
                           </ul>
                           <ul class="nav navbar-nav navbar-right">
                               <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>     Login</a></li>
