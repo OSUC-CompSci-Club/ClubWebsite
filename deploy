@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scp -r . aduquette@aduquette.humanoriented.com:/home/aduquette/aduquette.humanoriented.com/public 2> /dev/null
