@@ -52,7 +52,7 @@
                               <li><a href="contact-us.html">Contact Us</a></li>
                           </ul>
                           <ul class="nav navbar-nav navbar-right">
-                              <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>     Login</a></li>
+                              <!--<li><a href="#"><span class="glyphicon glyphicon-log-in"></span>     Login</a></li>-->
                           </ul>
                       </div>
                   </div>
@@ -72,7 +72,7 @@
 
             <footer class="container-fluid text-left">
               <h4 style="text-align:left;">Contact Info</h4>
-              <p><a style="color: #fff;" href="http://osucascades.edu/">OSU-Cascades</a><br>
+              <p><a href="http://osucascades.edu/">OSU-Cascades</a><br>
                   2600 NW College Way<br>
                   Bend, Oregon 97703<br>
                   541-322-3100<br></p>
