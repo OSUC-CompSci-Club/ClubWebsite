@@ -46,14 +46,12 @@
                       </div>
                       <div class="collapse navbar-collapse" id="myNavbar">
                           <ul class="nav navbar-nav">
-                            <!--<li><a href="board.html">Board</a></li>-->
-                            <!--<li><a href="career.html">Career</a></li>-->
                             <li><a href="events.html">Events</a></li>
                             <li><a href="freeStuff.html">Free Stuff!</a></li>
                             <li><a href="contact-us.html">Contact Us</a></li>
                           </ul>
                           <ul class="nav navbar-nav navbar-right">
-                              <!--<li><a href="#"><span class="glyphicon glyphicon-log-in"></span>     Login</a></li>-->
+                              <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span>     Login</a></li>
                           </ul>
                       </div>
                   </div>
